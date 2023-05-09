@@ -1,1 +1,1 @@
-# Data validation aplication example in C#
+# Data validation aplication example
